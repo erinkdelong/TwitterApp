@@ -25,4 +25,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/TjsJ6PQ.gifv
+![aEiOCnr - Imgur](https://user-images.githubusercontent.com/73408261/115984911-3767f200-a55e-11eb-8ffa-3339b72f8423.gif)
+
