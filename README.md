@@ -1,5 +1,7 @@
 
-https://user-images.githubusercontent.com/73408261/116773672-ab494500-aa0b-11eb-8b2a-95e73d9e009e.mov
+https://user-images.githubusercontent.com/73408261/116773695-d2077b80-aa0b-11eb-8583-e4ff2a3536e3.mov
+
+
 
 # TwitterApp
 
@@ -27,7 +29,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://user-images.githubusercontent.com/73408261/116773672-ab494500-aa0b-11eb-8b2a-95e73d9e009e.mov
 
 # Twitter - Part I
 
