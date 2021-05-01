@@ -25,7 +25,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/73408261/116773672-ab494500-aa0b-11eb-8b2a-95e73d9e009e.mov
 ![ezgif com-video-to-gif-4](https://user-images.githubusercontent.com/73408261/116773866-4262cc80-aa0d-11eb-8151-a2122db9d066.gif)
 
 # Twitter - Part I
