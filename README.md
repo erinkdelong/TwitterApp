@@ -1,7 +1,4 @@
 
-https://user-images.githubusercontent.com/73408261/116773695-d2077b80-aa0b-11eb-8583-e4ff2a3536e3.mov
-
-
 
 # TwitterApp
 
